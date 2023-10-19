@@ -20,7 +20,7 @@ const data = {
         "fab fa-linkedin",
         "fab fa-github-square"
     ],
-    "email" : "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=franciscomontenegro22@email.com"
+    "email" : "mailto://franciscomontenegro22@email.com"
 };
 
 //===================================================================================================
