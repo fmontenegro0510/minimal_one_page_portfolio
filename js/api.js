@@ -4,25 +4,23 @@
 //==============================================================================================================
 //Change according to your needs
 const data = {
-    "name" : "John Doe",
+    "name" : "Francisco Montenegro",
     "title" : [
-        "Designer",
-        "Front End",
-        "ML Enthusiast"
+        "Programmer",
+        "Web Developer",
+        "Boxer Dog Enthusiast"
     ],
     "links" : [
-        "https://behance.net/",
-        "https://codepen.io/",
-        "https://linkedin.com/",
-        "https://github.com/"
+        "https://linktr.ee/franciscomontenegro",
+        "https://www.linkedin.com/in/francisco-montenegro-98809417a/",
+        "https://github.com/fmontenegro0510"
     ],
     "icons" : [
-        "fab fa-behance-square",
-        "fab fa-codepen",
+        "fab fa fa-link",
         "fab fa-linkedin",
         "fab fa-github-square"
     ],
-    "email" : "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=targetemail@email.com"
+    "email" : "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=franciscomontenegro22@email.com"
 };
 
 //===================================================================================================
