@@ -137,7 +137,7 @@ footer {
 */
 @media screen and (max-width: 1200px) {
   main h1 {
-    font-size: 60px;
+    font-size: 4rem;
   }
   main .desc {
     width: 42%;
@@ -153,6 +153,7 @@ footer {
     margin-right: 0;
     margin-bottom: 1em;
     margin-left: 0;
+    text-align: center;
   }
   main .desc span {
     display: block;
@@ -164,7 +165,8 @@ footer {
 
 @media screen and (max-width: 900px) {
   main h1 {
-    font-size: 40px;
+    font-size: 4rem;
+    text-align: center;
   }
   main .desc {
     width: 42%;
@@ -184,6 +186,8 @@ footer {
     margin-right: 0;
     margin-bottom: 1em;
     margin-left: 0;
+    text-align: center;
+
   }
   main .desc span {
     display: block;
@@ -204,7 +208,8 @@ footer {
 
 @media screen and (max-width: 500px) {
   main h1 {
-    font-size: 60px;
+    font-size: 3rem;
+    text-align: center;
   }
   main .desc {
     width: 42%;
@@ -224,6 +229,8 @@ footer {
     margin-right: 0;
     margin-bottom: 1em;
     margin-left: 0;
+    text-align: center;
+
   }
   main .desc span {
     display: block;
@@ -250,6 +257,8 @@ footer {
     margin-right: 0;
     margin-bottom: 0em;
     margin-left: 0;
+    text-align: center;
+
   }
   main .social-icons a {
     margin-top: 0;
