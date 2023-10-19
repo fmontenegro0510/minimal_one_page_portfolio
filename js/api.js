@@ -8,7 +8,7 @@ const data = {
     "title" : [
         "Programmer",
         "Web Developer",
-        "Dog Enthusiast"
+        "Animal Enthusiast"
     ],
     "links" : [
         "https://linktr.ee/franciscomontenegro",
